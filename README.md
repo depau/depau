@@ -3,6 +3,7 @@
 Below you can find a bunch of stuff to crash and brick your calculator-equipped devices.<br>
 I'm especially into bricking people's USB drives, or at least that's what they say.
 
+Here are some extremely inaccurate programming language stats:
 ![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B195.5%25)
 ![Assembly](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Assembly%EF%B8%B11.5%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B11.3%25)
