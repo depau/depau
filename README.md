@@ -11,6 +11,3 @@ Wanna see what I enjoy working on? Here's a few projects of mine I really like:
 - Wi-Se ([hw](https://github.com/depau/wi-se-hw)/[sw](https://github.com/depau/wi-se-sw)) (`KICAD`/`C++`) is a wireless UART adapter board
 - I love playing [AudioTrip VR](http://www.kinemotik.com/audiotrip/); I made a [custom songs sync app](https://github.com/ATchoreography/atcd_choreo_sync) (`Dart`) and a [custom map viewer](https://github.com/ATchoreography/audiotrip_choreo_viewer) (`C++`)
 - My [WearOS World Clock App](https://github.com/depau/wearos-world-clock-tile) (`Kotlin`) is slick and useful, and it includes watchface tiles.
-- I made a [rootless F-Droid privileged extension](https://github.com/depau/fdroid_shizuku_privileged_extension) (`Kotlin`) that uses Shizuku
-- I made a [viewer](https://github.com/depau/dso138-viewer) (`Py`) for the DSO138 portable oscilloscope waveform data
-
