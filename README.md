@@ -11,7 +11,12 @@ Wanna see what I enjoy working on? Here's a few projects of mine I'm particularl
 - LevIoT ([hw](https://github.com/depau/leviot-hw)/[sw](https://github.com/depau/leviot-sw)) (`KiCAD`/`Py`) is a custom PCB for my home air purifier
 - I [reverse-engineered my laptop's fingerprint reader](https://github.com/depau/elanpoc) (`Py`) and wrote a driver for it for GNU/Linux in [libfprint](https://gitlab.freedesktop.org/libfprint/libfprint/-/merge_requests/330) (`C`/`GLib`).
 
-I accept sponsorships and donations through different methods, see EtchDroid's [donations page](https://etchdroid.app/donate/). Please note though that while every contribution is deeply appreciated, donations don't equate to special treatment or support. All my projects are hobby projects, and I dedicate time to them as my schedule allows. I welcome suggestions and bug reports from all users, donor or not. I may be available for contract work though, send me an email if interested!
-
 You may also find [my gists](https://gist.github.com/depau) interesting and useful.<br>
 I have a separate place for forked repos: [@depau-forks](https://github.com/depau-forks)
+
+I accept sponsorships and donations through different methods, see EtchDroid's [donations page](https://etchdroid.app/donate/).
+
+>[!NOTE]
+> While every contribution is deeply appreciated, donations don't equate to special treatment or support. All my projects are hobby projects, and I dedicate time to them as my schedule allows. I welcome suggestions and bug reports from all users, donor or not.
+>
+> I may be available for contract work though, send me an email if interested!
